@@ -102,3 +102,4 @@ class UserPanels {
     }
 }
 let userPanels = new UserPanels(arr);
+console.log("Lab task 2 completed by student!");
